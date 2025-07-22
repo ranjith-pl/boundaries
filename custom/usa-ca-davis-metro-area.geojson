@@ -26,5 +26,9 @@
       ]
     ]
   ],
-  "properties":{"id":"usa-ca-davis-metro-area","type":"metro-area","name":"Davis Metro Area"}
+  "properties": {
+    "id": "usa-ca-davis-metro-area",
+    "type": "metro-area",
+    "name": "Davis Metro Area"
+  }
 }
