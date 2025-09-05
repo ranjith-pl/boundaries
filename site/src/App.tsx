@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import fuzzysort from 'fuzzysort'
 import { FaArrowCircleRight } from 'react-icons/fa'
-import { WanderingCubes } from 'better-react-spinkit'
+import Spinner from 'react-spinkit'
 import staeLogo from '../../stae.svg'
 
 import './style.sass'
@@ -22,7 +22,7 @@ export default class App extends PureComponent {
     results: [],
     search: ''
   }
-  componentDidMount = () => {
+  componentDidMount = () => {    
     fetch('https://raw.githubusercontent.com/staeco/boundaries/master/list.json')
       .then((res) => res.json())
       .then((data) =>
@@ -81,7 +81,10 @@ export default class App extends PureComponent {
   }
   renderLoader = () => {
     return <div className="loader">
-      <WanderingCubes size={150} color='white' />
+      <Spinner
+        name="wandering-cubes"
+        fadeIn="none"
+        color="white"/>
       Loading boundary files...
     </div>
   }
