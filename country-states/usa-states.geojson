@@ -5296,7 +5296,9 @@
       },
       "properties": {
         "name": "North Dakota",
-        "id": "ND"
+        "id": "ND",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -8818,7 +8820,9 @@
       },
       "properties": {
         "name": "North Carolina",
-        "id": "NC"
+        "id": "NC",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -9612,7 +9616,9 @@
       },
       "properties": {
         "name": "Kansas",
-        "id": "KS"
+        "id": "KS",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -37808,7 +37814,9 @@
       },
       "properties": {
         "name": "Alaska",
-        "id": "AK"
+        "id": "AK",
+        "region": "West",
+        "division": "Pacific"
       }
     },
     {
@@ -39502,7 +39510,9 @@
       },
       "properties": {
         "name": "Pennsylvania",
-        "id": "PA"
+        "id": "PA",
+        "region": "Northeast",
+        "division": "Middle Atlantic"
       }
     },
     {
@@ -41768,7 +41778,9 @@
       },
       "properties": {
         "name": "Ohio",
-        "id": "OH"
+        "id": "OH",
+        "region": "Midwest",
+        "division": "East North Central"
       }
     },
     {
@@ -43382,7 +43394,9 @@
       },
       "properties": {
         "name": "New Jersey",
-        "id": "NJ"
+        "id": "NJ",
+        "region": "Northeast",
+        "division": "Middle Atlantic"
       }
     },
     {
@@ -48306,7 +48320,9 @@
       },
       "properties": {
         "name": "Hawaii",
-        "id": "HI"
+        "id": "HI",
+        "region": "West",
+        "division": "Pacific"
       }
     },
     {
@@ -49616,7 +49632,9 @@
       },
       "properties": {
         "name": "Massachusetts",
-        "id": "MA"
+        "id": "MA",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -67702,7 +67720,9 @@
       },
       "properties": {
         "name": "Texas",
-        "id": "TX"
+        "id": "TX",
+        "region": "South",
+        "division": "West South Central"
       }
     },
     {
@@ -71304,7 +71324,9 @@
       },
       "properties": {
         "name": "New Hampshire",
-        "id": "NH"
+        "id": "NH",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -71800,7 +71822,9 @@
       },
       "properties": {
         "name": "Rhode Island",
-        "id": "RI"
+        "id": "RI",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -74806,7 +74830,9 @@
       },
       "properties": {
         "name": "Michigan",
-        "id": "MI"
+        "id": "MI",
+        "region": "Midwest",
+        "division": "East North Central"
       }
     },
     {
@@ -75188,7 +75214,9 @@
       },
       "properties": {
         "name": "Delaware",
-        "id": "DE"
+        "id": "DE",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -77926,7 +77954,9 @@
       },
       "properties": {
         "name": "South Dakota",
-        "id": "SD"
+        "id": "SD",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -84060,7 +84090,9 @@
       },
       "properties": {
         "name": "Montana",
-        "id": "MT"
+        "id": "MT",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -85198,7 +85230,9 @@
       },
       "properties": {
         "name": "Nevada",
-        "id": "NV"
+        "id": "NV",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -85356,7 +85390,9 @@
       },
       "properties": {
         "name": "District of Columbia",
-        "id": "DC"
+        "id": "DC",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -94786,7 +94822,9 @@
       },
       "properties": {
         "name": "Minnesota",
-        "id": "MN"
+        "id": "MN",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -99216,7 +99254,9 @@
       },
       "properties": {
         "name": "Iowa",
-        "id": "IA"
+        "id": "IA",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -104524,7 +104564,9 @@
       },
       "properties": {
         "name": "Kentucky",
-        "id": "KY"
+        "id": "KY",
+        "region": "South",
+        "division": "East South Central"
       }
     },
     {
@@ -104886,7 +104928,9 @@
       },
       "properties": {
         "name": "New Mexico",
-        "id": "NM"
+        "id": "NM",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -106630,7 +106674,9 @@
       },
       "properties": {
         "name": "Puerto Rico",
-        "id": "PR"
+        "id": "PR",
+        "region": null,
+        "division": null
       }
     },
     {
@@ -108956,7 +109002,9 @@
       },
       "properties": {
         "name": "Nebraska",
-        "id": "NE"
+        "id": "NE",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -115780,7 +115828,9 @@
       },
       "properties": {
         "name": "Florida",
-        "id": "FL"
+        "id": "FL",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -118914,7 +118964,9 @@
       },
       "properties": {
         "name": "Indiana",
-        "id": "IN"
+        "id": "IN",
+        "region": "Midwest",
+        "division": "East North Central"
       }
     },
     {
@@ -121240,7 +121292,9 @@
       },
       "properties": {
         "name": "Alabama",
-        "id": "AL"
+        "id": "AL",
+        "region": "South",
+        "division": "East South Central"
       }
     },
     {
@@ -126106,7 +126160,9 @@
       },
       "properties": {
         "name": "South Carolina",
-        "id": "SC"
+        "id": "SC",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -129704,7 +129760,9 @@
       },
       "properties": {
         "name": "Tennessee",
-        "id": "TN"
+        "id": "TN",
+        "region": "South",
+        "division": "East South Central"
       }
     },
     {
@@ -137434,7 +137492,9 @@
       },
       "properties": {
         "name": "Idaho",
-        "id": "ID"
+        "id": "ID",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -141440,7 +141500,9 @@
       },
       "properties": {
         "name": "Arkansas",
-        "id": "AR"
+        "id": "AR",
+        "region": "South",
+        "division": "West South Central"
       }
     },
     {
@@ -141782,7 +141844,9 @@
       },
       "properties": {
         "name": "Connecticut",
-        "id": "CT"
+        "id": "CT",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -141968,7 +142032,9 @@
       },
       "properties": {
         "name": "Utah",
-        "id": "UT"
+        "id": "UT",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -148966,7 +149032,9 @@
       },
       "properties": {
         "name": "Georgia",
-        "id": "GA"
+        "id": "GA",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -153324,7 +153392,9 @@
       },
       "properties": {
         "name": "Oklahoma",
-        "id": "OK"
+        "id": "OK",
+        "region": "South",
+        "division": "West South Central"
       }
     },
     {
@@ -157774,7 +157844,9 @@
       },
       "properties": {
         "name": "Illinois",
-        "id": "IL"
+        "id": "IL",
+        "region": "Midwest",
+        "division": "East North Central"
       }
     },
     {
@@ -160584,7 +160656,9 @@
       },
       "properties": {
         "name": "Maryland",
-        "id": "MD"
+        "id": "MD",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -166568,7 +166642,9 @@
       },
       "properties": {
         "name": "California",
-        "id": "CA"
+        "id": "CA",
+        "region": "West",
+        "division": "Pacific"
       }
     },
     {
@@ -169990,7 +170066,9 @@
       },
       "properties": {
         "name": "Oregon",
-        "id": "OR"
+        "id": "OR",
+        "region": "West",
+        "division": "Pacific"
       }
     },
     {
@@ -171676,7 +171754,9 @@
       },
       "properties": {
         "name": "Washington",
-        "id": "WA"
+        "id": "WA",
+        "region": "West",
+        "division": "Pacific"
       }
     },
     {
@@ -178910,7 +178990,9 @@
       },
       "properties": {
         "name": "West Virginia",
-        "id": "WV"
+        "id": "WV",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -181638,7 +181720,9 @@
       },
       "properties": {
         "name": "New York",
-        "id": "NY"
+        "id": "NY",
+        "region": "Northeast",
+        "division": "Middle Atlantic"
       }
     },
     {
@@ -181820,7 +181904,9 @@
       },
       "properties": {
         "name": "Colorado",
-        "id": "CO"
+        "id": "CO",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -187378,7 +187464,9 @@
       },
       "properties": {
         "name": "Virginia",
-        "id": "VA"
+        "id": "VA",
+        "region": "South",
+        "division": "South Atlantic"
       }
     },
     {
@@ -193244,7 +193332,9 @@
       },
       "properties": {
         "name": "Maine",
-        "id": "ME"
+        "id": "ME",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -195578,7 +195668,9 @@
       },
       "properties": {
         "name": "Arizona",
-        "id": "AZ"
+        "id": "AZ",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -202608,7 +202700,9 @@
       },
       "properties": {
         "name": "Louisiana",
-        "id": "LA"
+        "id": "LA",
+        "region": "South",
+        "division": "West South Central"
       }
     },
     {
@@ -205726,7 +205820,9 @@
       },
       "properties": {
         "name": "Vermont",
-        "id": "VT"
+        "id": "VT",
+        "region": "Northeast",
+        "division": "New England"
       }
     },
     {
@@ -206398,7 +206494,9 @@
       },
       "properties": {
         "name": "United States Virgin Islands",
-        "id": "VI"
+        "id": "VI",
+        "region": null,
+        "division": null
       }
     },
     {
@@ -206848,7 +206946,9 @@
       },
       "properties": {
         "name": "Guam",
-        "id": "GU"
+        "id": "GU",
+        "region": null,
+        "division": null
       }
     },
     {
@@ -208504,7 +208604,9 @@
       },
       "properties": {
         "name": "Commonwealth of the Northern Mariana Islands",
-        "id": "MP"
+        "id": "MP",
+        "region": null,
+        "division": null
       }
     },
     {
@@ -208718,7 +208820,9 @@
       },
       "properties": {
         "name": "Wyoming",
-        "id": "WY"
+        "id": "WY",
+        "region": "West",
+        "division": "Mountain"
       }
     },
     {
@@ -212888,7 +212992,9 @@
       },
       "properties": {
         "name": "Missouri",
-        "id": "MO"
+        "id": "MO",
+        "region": "Midwest",
+        "division": "West North Central"
       }
     },
     {
@@ -217158,7 +217264,9 @@
       },
       "properties": {
         "name": "Wisconsin",
-        "id": "WI"
+        "id": "WI",
+        "region": "Midwest",
+        "division": "East North Central"
       }
     },
     {
@@ -217878,7 +217986,9 @@
       },
       "properties": {
         "name": "American Samoa",
-        "id": "AS"
+        "id": "AS",
+        "region": null,
+        "division": null
       }
     },
     {
@@ -222904,7 +223014,9 @@
       },
       "properties": {
         "name": "Mississippi",
-        "id": "MS"
+        "id": "MS",
+        "region": "South",
+        "division": "East South Central"
       }
     }
   ],
